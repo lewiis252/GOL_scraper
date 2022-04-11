@@ -15,7 +15,7 @@ pip install -r requirements.txt
 git@github.com:lewiis252/GOL_scraper.git
 ```
 
-After setting your virtual enviroment you must provide your emails and password - create .env file and fill it like this.
+After setting your virtual enviroment you must provide your emails and password - create .env file in spiders directory and fill it like this:
 
 ```sh
 # login settings
