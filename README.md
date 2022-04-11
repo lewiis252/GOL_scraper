@@ -32,4 +32,4 @@ password = 'passsword'
 Then simply run gol_scraper.py file. 
 =======
 Then simply run gol_scraper.py.
->>>>>>> bd5b6a3d6c62ad8f8bb99df43c2ec64579dc125f
+
