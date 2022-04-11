@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage of scraper
 
 ```sh
-git clone git@github.com:lewiis252/RMF_24_News_Scraper.git
+git clone git@github.com:lewiis252/GOL_scraper.git
 ```
 
 After setting your virtual enviroment you must provide your emails and password - create .env file and fill it like this.
@@ -24,4 +24,4 @@ receiver_email = 'my_device_mail@kindle.com'
 password = 'passsword'
 ```
 
-Then simply run rmf24_scraper.py file. 
+Then simply run gol_scraper.py file. 
