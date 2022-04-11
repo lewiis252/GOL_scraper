@@ -12,11 +12,7 @@ pip install -r requirements.txt
 ## Usage of scraper
 
 ```sh
-<<<<<<< HEAD
 git clone git@github.com:lewiis252/GOL_scraper.git
-=======
-git@github.com:lewiis252/GOL_scraper.git
->>>>>>> bd5b6a3d6c62ad8f8bb99df43c2ec64579dc125f
 ```
 
 After setting your virtual enviroment you must provide your emails and password - create .env file in spiders directory and fill it like this:
