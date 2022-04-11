@@ -163,4 +163,4 @@ for file in onlyfiles:
     os.replace('files_to_sent/{}'.format(file), 'sended/{}'.format(file))
 
 print('Files send.')
-time.sleep(10)
+time.sleep(30)
