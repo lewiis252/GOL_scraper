@@ -1,6 +1,6 @@
 # Gry_Online_News_Scraper
-This app will automaticaly download and sent news from gry-online.pl to your kindle device. You need python and packages from requirements.txt to run it. 
-This script automatically sent files from files_to_sent folder to your kindle and move sended files to sended folder.
+This app will automaticaly download and sent news from gry-online.pl throught your email (for example to your kindle device). You need python and packages from requirements.txt to run it. 
+This script automatically sent files from files_to_sent folder to your email (kindle) and move sended files to sended folder.
 **Just provide your mail, kindle's mail and password** in .env file (look below).
 Remember, you must do something like **Turn Allow less secure apps to ON in your email service** (gmail in this example)
 
