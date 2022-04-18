@@ -24,7 +24,5 @@ receiver_email = 'my_device_mail@kindle.com'
 password = 'passsword'
 ```
 
-Then simply run gol_scraper.py file. 
-=======
 Then simply run gol_scraper.py.
 
